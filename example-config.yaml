@@ -1,0 +1,6 @@
+commands:
+- name: kubectl
+  exe: kubectl
+  flag_aliases:
+  - flag: --context
+    alias: -x
